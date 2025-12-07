@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vinayaka Srinivas  
-**Gen AI Developer | LLMs • RAG • Vision • XAI • ML Engineering**
+**Gen AI Developer | LLMs • Agentic AI • Computer Vision • Gen AI Tools • ML Engineering**
 
 I build practical, end-to-end AI systems — from training and explainability to deployment and automation.  
 Focused on **Gen AI apps, RAG pipelines, multi-modal ML, and engineering clean, production-ready solutions.**
