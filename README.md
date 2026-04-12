@@ -53,30 +53,23 @@
 
 **AI/ML**
 `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
-`LangChain` `LlamaIndex` `CrewAI` `FastF1`
+`LangChain` `LlamaIndex` `CrewAI` `ML Algorithms` `LLMs` 
 
 **Gen AI & LLMs**
 `Claude API` `OpenAI` `Mistral` `RAG Systems`
-`Prompt Engineering` `Custom GPTs` `Kiro` `Claude Code`
+`Prompt Engineering` `Custom GPTs` `Kiro` `Claude Code` `AWS Transform` 
 
 **Engineering & Deployment**
 `FastAPI` `Streamlit` `Gradio` `Docker`
 `GitHub Actions` `MCP` `AWS` `Azure`
 
 **Databases & Vector Stores**
-`ChromaDB` `Pinecone` `FAISS` `PostgreSQL`
+`ChromaDB` `AWS EC2` `FAISS` `PostgreSQL` 
 
 ---
 
 ## 📜 Certifications
 - ☁️ AWS AI Practitioner — 2026
-
---
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaka14&layout=compact&theme=dark&hide_border=true)
-
-
 
 ---
 
