@@ -88,13 +88,8 @@ I take on a limited number of freelance projects alongside my full-time role. If
 
 ## 🌐 Connect
 
-[
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/vinayaka-srinivas-b1334625a)
-[
+(https://www.linkedin.com/in/vinayaka-srinivas-b1334625a)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-
-](https://github.com/Vinayaka14)
+(https://github.com/Vinayaka14)
