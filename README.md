@@ -16,8 +16,7 @@
 
 - 11-rule deterministic strategy engine + ML classifier
 - 2-tab Streamlit app: Real Race Replay + Manual Scenario Builder
-- Deployed on Streamlit Community Cloud
-- **[🔗 Live Demo](YOUR_STREAMLIT_URL)** · 
+- Deployed on Streamlit Community Cloud· 
   **[📁 Repo](https://github.com/Vinayaka14/f1-tyre-strategy-simulator)**
 
 ---
