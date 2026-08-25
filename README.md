@@ -69,6 +69,7 @@
 
 ## 📜 Certifications
 - ☁️ AWS AI Practitioner — 2026
+- ☁️ Claude Certified Architect - Foundations, Anthropic — 2026
 
 ---
 
